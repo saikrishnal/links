@@ -11,5 +11,8 @@
 => https://github.com/kubernetes/heapster/blob/master/docs/influxdb.md </br>
 => https://github.com/kubernetes/heapster/tree/master/deploy/kube-config/influxdb  </br>
 => instructions first link </br>
-
-
+### Playground servers
+=> https://bitnami.com/kubernetes </br>
+=> https://medium.com/kubernetes-playground/get-your-k8s-cluster-with-5-nodes-in-5-mins-for-free-to-use-for-4-hours-289e7d0f3eac </br>
+=> https://www.katacoda.com/courses/kubernetes/playground
+### 
