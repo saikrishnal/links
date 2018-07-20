@@ -22,7 +22,7 @@
 => https://docs.bitnami.com/kubernetes/get-started-kubernetes/#step-4-install-helm-and-tiller
 ### Install an application using a Helm Chart (try wordpress)
 => https://docs.bitnami.com/kubernetes/get-started-kubernetes/#step-5-install-an-application-using-a-helm-chart
-### Install an application using a Helm Chart (Kubernetes-Dashboard)
+### Deployment from Yaml (Kubernetes-Dashboard) Read everything carefully
 => https://docs.bitnami.com/kubernetes/get-started-kubernetes/#step-6-access-the-kubernetes-dashboard
 ### Get Started With Kubernetes
 => https://docs.bitnami.com/kubernetes/get-started-kubernetes/#introduction
