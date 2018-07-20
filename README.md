@@ -3,6 +3,8 @@
 => https://docs.giantswarm.io/guides/install-kubernetes-dashboard/
 ### On Securing the Kubernetes Dashboard 
 => https://blog.heptio.com/on-securing-the-kubernetes-dashboard-16b09b1b7aca
+### Access control Kubernetes Dashboard
+=> https://github.com/kubernetes/dashboard/wiki/Access-control#basic
 ### How to Utilize the “Heapster + InfluxDB + Grafana” Stack in Kubernetes for Monitoring Pods
 => https://www.linkedin.com/pulse/how-utilize-heapster-influxdb-grafana-stack-pods-oleg-chunikhin </br>
 => https://github.com/kubernetes/heapster </br>
