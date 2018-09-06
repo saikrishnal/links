@@ -26,3 +26,8 @@
 => https://docs.bitnami.com/kubernetes/get-started-kubernetes/#step-6-access-the-kubernetes-dashboard
 ### Get Started With Kubernetes
 => https://docs.bitnami.com/kubernetes/get-started-kubernetes/#introduction
+
+
+## Prometheus
+=> https://devopscube.com/setup-prometheus-monitoring-on-kubernetes/
+
